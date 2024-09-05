@@ -1,2 +1,2 @@
 # HighLightMarker
-For the deranged who wishes to take notes lila 9bl les exams without taking them.
+For the student (me for example) who wishes to take notes the night before exams without actually taking them.
