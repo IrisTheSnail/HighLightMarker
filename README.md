@@ -1,2 +1,2 @@
 # HighLightMarker
-For the student (me for example) who wishes to take notes the night before exams without actually taking them.
+For the student who wishes to take notes the night before exams without actually taking them.
